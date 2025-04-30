@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cards\card.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Cards\carddois.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="componentes\controle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="conexao\controledois.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="conexao\controletres.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lojaProfessor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cards\Administrador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Cards\card.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Cards\carddois.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="componentes\controle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="componentes\controledois.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="componentes\controletres.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cards\NovoProduto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="maridoces\Cards\card.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="maridoces\Cards\carddois.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="maridoces\componentes\controle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="maridoces\conexao\controledois.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="maridoces\conexao\controletres.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="maridoces\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="maridoces\lojaProfessor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
